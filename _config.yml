@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &seluine
+  username               : &jillian79
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jillian Mellen"
   avatar           : "profile.png"
-  bio              : "Astrophysics Major, Mom of 2, PER Researcher"
-  location         : "NJ"
+  bio              : "Masters Student and Physics Education Researcher"
+  location         : "PA"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "jillian.mellen@rutgers.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=KJqQJCwAAAAJ&hl"
+  email            : "jillian.a.mellen@drexel.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "seluine"
+  github           : "JillianMellen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jillian-mellen-022956101/"
   orcid            : "http://orcid.org/0000-0003-3121-3343"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "seluine"
+  twitter          : "Jillian79"
   vine             :
   weibo            :
   xing             :
