@@ -17,6 +17,7 @@ Education
 PROFESSIONAL EXPERIENCE
 ======
 Department of Physics, Drexel University
+
 Teaching Assistant September 2021 - Present 
 *	facilitate weekly recitation and lab sessions in course ”Electricity and Motion” for non-STEM majors 
 *	use own enthusiasm about physics and science in order to encourage students to learn and work through material 
@@ -40,6 +41,7 @@ Research Assistant November 2020 - Present
 *	project will be presented in the spring quarter as masters thesis
 
 Department of Physics & Astronomy, Rutgers University
+
 Lecturer January - May 2020 
 * facilitate weekly lab course sessions in an introductory electricity and magnetism course 
 * use virtual meeting software to facilitate second half of labs virtually
@@ -48,6 +50,7 @@ Lecturer January - May 2020
 * communicate with students about course content and grades
 
 Rutgers University New Brunswick, Department of Physics & Astronomy
+
 Student Research Assistant June 2018 - May 2020 
 *	mixed method study looking at impact of flipped classroom structure on student self-efficacy and learning experiences in introductory calculus course
 *	transcribed 12 student interviews
@@ -62,7 +65,8 @@ Student Research Assistant February 2018 - June 2018
 * compile articles with faculty interviews and interview questions
 
 Rutgers Learning Centers; Department of Physics & Astronomy
-*	Learning Assistant Fall Semesters 2017/2018 
+
+Learning Assistant Fall Semesters 2017/2018 
 *	facilitate discussion and inquiry to further students’ understanding of course material 
 *	attend professional development workshops to further understanding of relevant pedagogy and develop peer leader skills
 *	attend weekly staff meetings to gain insight into pedagogy in physics, and solidify understanding of relevant topics
