@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jillian Mellen"
   avatar           : "profile.png"
-  bio              : "Masters Student and Physics Education Researcher"
+  bio              : "Master's Student and Physics Education Researcher"
   location         : "PA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KJqQJCwAAAAJ&hl"
-  email            : "surfer-09quartz@icloud.com"
+  email            : "surfer-09quartz[at]icloud[dot]com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
